@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5667f3f6-4d6d-4281-82e4-af16699c9886)# Manuals for various 10m system components.
+# Manuals for various 10m system components.
 
 This space hosts manuals for various components of the 10m system, or links to them on external sites.
 
