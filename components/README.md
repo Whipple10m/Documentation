@@ -8,6 +8,7 @@ This space hosts manuals for various components of the 10m system, or links to t
 - Before the GRS2 clock interface was installed a system developped by the University of Michigan was used to read the GPS clock, as described by [Freeman and Akerlof, NIM A320, 1992 305-309](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/29901/0000258.pdf)
 - [Truetime XL-DC clock (hosted by LBL, downloaded 2024-12-30)](https://glacier.lbl.gov/gtp/DOM/Support/xl-dc-manual.pdf)
 - [Truetime XL-AK clock (hosted by LBL, downloaded 2024-12-30)](https://glacier.lbl.gov/gtp/DOM/Support/xl-ak-manual.pdf)
+- Hytec CAMAC GPS
 
 ### Data acquisition
 
