@@ -1,4 +1,4 @@
-# Manuals for various 10m system components.
+# Documentation for various 10m system components.
 
 This space hosts manuals for various components of the 10m system, or links to them on external sites.
 
