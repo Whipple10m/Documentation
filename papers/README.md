@@ -1,5 +1,7 @@
 # List of papers Whipple papers (possibly incomplete)
 
+(This initial list from ADS needs to be filtered)
+
 1. **Aleksić, J. et al.**, *The 2009 multiwavelength campaign on Mrk 421: Variability and correlation studies*, **2015A&A...576A.126A (2015)**  
    [https://doi.org/10.1051/0004-6361/201424216](https://doi.org/10.1051/0004-6361/201424216)
 
