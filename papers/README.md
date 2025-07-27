@@ -14,57 +14,9 @@
    **Acciari, V. A. et al.**, [The Astrophysical Journal, 738, 25](https://doi.org/10.1088/0004-637X/738/1/25) **(2011)**  
    ADS: [https://ui.adsabs.harvard.edu/abs/2011ApJ...738...25A](https://ui.adsabs.harvard.edu/abs/2011ApJ...738...25A)
 
-1. **REJECT**  *The Discovery of γ-Ray Emission from the Blazar RGB J0710+591*  
-   **Acciari, V. A. et al.**, [The Astrophysical Journal, 715, L49](https://doi.org/10.1088/2041-8205/715/1/L49) **(2010)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/2010ApJ...715L..49A](https://ui.adsabs.harvard.edu/abs/2010ApJ...715L..49A)
-
-1. **REJECT**  *Observations of the Shell-type Supernova Remnant Cassiopeia A at TeV Energies with VERITAS*  
-   **Acciari, V. A. et al.**, [The Astrophysical Journal, 714, 163](https://doi.org/10.1088/0004-637X/714/1/163) **(2010)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/2010ApJ...714..163A](https://ui.adsabs.harvard.edu/abs/2010ApJ...714..163A)
-
-1. **REJECT**  *Discovery of Variability in the Very High Energy γ-Ray Emission of 1ES 1218+304 with VERITAS*  
-   **Acciari, V. A. et al.**, [The Astrophysical Journal, 709, L163](https://doi.org/10.1088/2041-8205/709/2/L163) **(2010)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/2010ApJ...709L.163A](https://ui.adsabs.harvard.edu/abs/2010ApJ...709L.163A)
-
-1. **REJECT**  *Veritas:. Status Summary 2009*  
-   **Weekes, T. C. et al.**, [International Journal of Modern Physics D, 19, 1003](https://doi.org/10.1142/S0218271810016932) **(2010)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/2010IJMPD..19.1003W](https://ui.adsabs.harvard.edu/abs/2010IJMPD..19.1003W)
-
-1. **REJECT**  *Discovery of Very High Energy Gamma Rays from PKS 1424+240 and Multiwavelength Constraints on Its Redshift*  
-   **Acciari, V. A. et al.**, [The Astrophysical Journal, 708, L100](https://doi.org/10.1088/2041-8205/708/2/L100) **(2010)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/2010ApJ...708L.100A](https://ui.adsabs.harvard.edu/abs/2010ApJ...708L.100A)
-
-1. **REJECT**  *A connection between star formation activity and cosmic rays in the starburst galaxy M82*  
-   **VERITAS Collaboration et al.**, [Nature, 462, 770](https://doi.org/10.1038/nature08557) **(2009)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/2009Natur.462..770V](https://ui.adsabs.harvard.edu/abs/2009Natur.462..770V)
-
-1. **REJECT**  *Multiwavelength Observations of a TeV-Flare from W Comae*  
-   **Acciari, V. A. et al.**, [The Astrophysical Journal, 707, 612](https://doi.org/10.1088/0004-637X/707/1/612) **(2009)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/2009ApJ...707..612A](https://ui.adsabs.harvard.edu/abs/2009ApJ...707..612A)
-
-1. **REJECT**  *VERITAS Upper Limit on the Very High Energy Emission from the Radio Galaxy NGC 1275*  
-   **Acciari, V. A. et al.**, [The Astrophysical Journal, 706, L275](https://doi.org/10.1088/0004-637X/706/2/L275) **(2009)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/2009ApJ...706L.275A](https://ui.adsabs.harvard.edu/abs/2009ApJ...706L.275A)
-
-1. **REJECT**  *Detection of Extended VHE Gamma Ray Emission from G106.3+2.7 with Veritas*  
-   **Acciari, V. A. et al.**, [The Astrophysical Journal, 703, L6](https://doi.org/10.1088/0004-637X/703/1/L6) **(2009)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/2009ApJ...703L...6A](https://ui.adsabs.harvard.edu/abs/2009ApJ...703L...6A)
-
-1. **REJECT**  *Simultaneous Multiwavelength Observations of Markarian 421 During Outburst*  
+1. *Simultaneous Multiwavelength Observations of Markarian 421 During Outburst*  
    **Acciari, V. A. et al.**, [The Astrophysical Journal, 703, 169](https://doi.org/10.1088/0004-637X/703/1/169) **(2009)**  
    ADS: [https://ui.adsabs.harvard.edu/abs/2009ApJ...703..169A](https://ui.adsabs.harvard.edu/abs/2009ApJ...703..169A)
-
-1. **REJECT**  *Multiwavelength Observations of LS I +61° 303 with Veritas, Swift, and RXTE*  
-   **Acciari, V. A. et al.**, [The Astrophysical Journal, 700, 1034](https://doi.org/10.1088/0004-637X/700/2/1034) **(2009)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/2009ApJ...700.1034A](https://ui.adsabs.harvard.edu/abs/2009ApJ...700.1034A)
-
-1. *Radio Imaging of the Very-High-Energy γ-Ray Emission Region in the Central Engine of a Radio Galaxy*  
-   **Acciari, V. A. et al.**, [Science, 325, 444](https://doi.org/10.1126/science.1175406) **(2009)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/2009Sci...325..444A](https://ui.adsabs.harvard.edu/abs/2009Sci...325..444A)
-
-1. **REJECT**  *Observation of Extended Very High Energy Emission from the Supernova Remnant IC 443 with VERITAS*  
-   **Acciari, V. A. et al.**, [The Astrophysical Journal, 698, L133](https://doi.org/10.1088/0004-637X/698/2/L133) **(2009)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/2009ApJ...698L.133A](https://ui.adsabs.harvard.edu/abs/2009ApJ...698L.133A)
 
 1. **REJECT**  *Evidence for Long-Term Gamma-Ray and X-Ray Variability from the Unidentified TeV Source HESS J0632+057*  
    **Acciari, V. A. et al.**, [The Astrophysical Journal, 698, L94](https://doi.org/10.1088/0004-637X/698/2/L94) **(2009)**  
