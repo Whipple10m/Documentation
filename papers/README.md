@@ -8,30 +8,6 @@
 1. **Acciari, V. A. et al.**, *Observation of Markarian 421 in TeV gamma rays over a 14-year time span*, **2014APh....54....1A (2014)**  
    [https://ui.adsabs.harvard.edu/abs/2014APh....54....1A](https://ui.adsabs.harvard.edu/abs/2014APh....54....1A)
 
-1. **REJECT**  **Aliu, E. et al.**, *A Search for Enhanced Very High Energy Gamma-Ray Emission from the 2013 March Crab Nebula Flare*, **2014ApJ...781L..11A (2014)**  
-   [https://ui.adsabs.harvard.edu/abs/2014ApJ...781L..11A](https://ui.adsabs.harvard.edu/abs/2014ApJ...781L..11A)
-
-1. **REJECT**  **Archambault, S. et al.**, *VERITAS Observations of the Microquasar Cygnus X-3*, **2013ApJ...779..150A (2013)**  
-   [https://ui.adsabs.harvard.edu/abs/2013ApJ...779..150A](https://ui.adsabs.harvard.edu/abs/2013ApJ...779..150A)
-
-1. **REJECT**  **Aliu, E. et al.**, *Long Term Observations of B2 1215+30 with VERITAS*, **2013ApJ...779...92A (2013)**  
-   [https://ui.adsabs.harvard.edu/abs/2013ApJ...779...92A](https://ui.adsabs.harvard.edu/abs/2013ApJ...779...92A)
-
-1. **REJECT**  **Aliu, E. et al.**, *Multiwavelength Observations of the TeV Binary LS I +61° 303 with VERITAS, Fermi-LAT, and Swift/XRT during a TeV Outburst*, **2013ApJ...779...88A (2013)**  
-   [https://ui.adsabs.harvard.edu/abs/2013ApJ...779...88A](https://ui.adsabs.harvard.edu/abs/2013ApJ...779...88A)
-
-1. **REJECT**  **Archambault, S. et al.**, *Discovery of a New TeV Gamma-Ray Source: VER J0521+211*, **2013ApJ...776...69A (2013)**  
-   [https://ui.adsabs.harvard.edu/abs/2013ApJ...776...69A](https://ui.adsabs.harvard.edu/abs/2013ApJ...776...69A)
-
-1. **REJECT**  **Aliu, E. et al.**, *Multiwavelength Observations and Modeling of 1ES 1959+650 in a Low Flux State*, **2013ApJ...775....3A (2013)**  
-   [https://ui.adsabs.harvard.edu/abs/2013ApJ...775....3A](https://ui.adsabs.harvard.edu/abs/2013ApJ...775....3A)
-
-1. **REJECT**  **Aliu, E. et al.**, *Discovery of TeV Gamma-Ray Emission toward Supernova Remnant SNR G78.2+2.1*, **2013ApJ...770...93A (2013)**  
-   [https://ui.adsabs.harvard.edu/abs/2013ApJ...770...93A](https://ui.adsabs.harvard.edu/abs/2013ApJ...770...93A)
-
-1. **REJECT**  **Aliu, E. et al.**, *Discovery of TeV Gamma-Ray Emission from CTA 1 by VERITAS*, **2013ApJ...764...38A (2013)**  
-   [https://ui.adsabs.harvard.edu/abs/2013ApJ...764...38A](https://ui.adsabs.harvard.edu/abs/2013ApJ...764...38A)
-
 1. **REJECT**  **Arlen, T. et al.**, *Rapid TeV Gamma-Ray Flaring of BL Lacertae*, **2013ApJ...762...92A (2013)**  
    [https://ui.adsabs.harvard.edu/abs/2013ApJ...762...92A](https://ui.adsabs.harvard.edu/abs/2013ApJ...762...92A)
 
