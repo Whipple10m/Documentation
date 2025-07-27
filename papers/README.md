@@ -386,6 +386,10 @@ Here we compile a list of papers that describe the Whipple 10m telescope and its
    **Cawley, M. F. et al.**, Astronomy and Astrophysics, 243, 143 **(1991)**  
    ADS: [https://ui.adsabs.harvard.edu/abs/1991A&A...243..143C](https://ui.adsabs.harvard.edu/abs/1991A&A...243..143C)
 
+1. *Optical characteristics of the whipple observatory TeV gamma-ray imaging telescope*  
+   **Lewis, D. A. et al.**, [Experimental Astronomy, 1, 213](https://doi.org/10.1007/BF00428516) **(1990)**  
+   ADS: [https://ui.adsabs.harvard.edu/abs/1990ExA.....1..213L](https://ui.adsabs.harvard.edu/abs/1990ExA.....1..213L)
+
 1. *A High Resolution Imaging Detector for Tev Gamma-Ray Astronomy*  
    **Cawley, M. F. et al.**, [Experimental Astronomy, 1, 173](https://doi.org/10.1007/BF00462039) **(1990)**  
    ADS: [https://ui.adsabs.harvard.edu/abs/1990ExA.....1..173C](https://ui.adsabs.harvard.edu/abs/1990ExA.....1..173C)
