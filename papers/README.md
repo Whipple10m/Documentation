@@ -14,46 +14,6 @@
    **Acciari, V. A. et al.**, [The Astrophysical Journal, 738, 25](https://doi.org/10.1088/0004-637X/738/1/25) **(2011)**  
    ADS: [https://ui.adsabs.harvard.edu/abs/2011ApJ...738...25A](https://ui.adsabs.harvard.edu/abs/2011ApJ...738...25A)
 
-1. **REJECT**  *VERITAS Observations of the TeV Binary LS I +61° 303 During 2008-2010*  
-   **Acciari, V. A. et al.**, [The Astrophysical Journal, 738, 3](https://doi.org/10.1088/0004-637X/738/1/3) **(2011)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/2011ApJ...738....3A](https://ui.adsabs.harvard.edu/abs/2011ApJ...738....3A)
-
-1. **REJECT**  *Gamma-Ray Observations of the Be/Pulsar Binary 1A 0535+262 During a Giant X-Ray Outburst*  
-   **Acciari, V. A. et al.**, [The Astrophysical Journal, 733, 96](https://doi.org/10.1088/0004-637X/733/2/96) **(2011)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/2011ApJ...733...96A](https://ui.adsabs.harvard.edu/abs/2011ApJ...733...96A)
-
-1. **REJECT**  *Discovery of TeV Gamma-ray Emission from Tycho's Supernova Remnant*  
-   **Acciari, V. A. et al.**, [The Astrophysical Journal, 730, L20](https://doi.org/10.1088/2041-8205/730/2/L20) **(2011)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/2011ApJ...730L..20A](https://ui.adsabs.harvard.edu/abs/2011ApJ...730L..20A)
-
-1. **REJECT**  *Spectral Energy Distribution of Markarian 501: Quiescent State Versus Extreme Outburst*  
-   **Acciari, V. A. et al.**, [The Astrophysical Journal, 729, 2](https://doi.org/10.1088/0004-637X/729/1/2) **(2011)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/2011ApJ...729....2A](https://ui.adsabs.harvard.edu/abs/2011ApJ...729....2A)
-
-1. **REJECT**  *Insights into the High-energy γ-ray Emission of Markarian 501 from Extensive Multifrequency Observations in the Fermi Era*  
-   **Abdo, A. A. et al.**, [The Astrophysical Journal, 727, 129](https://doi.org/10.1088/0004-637X/727/2/129) **(2011)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/2011ApJ...727..129A](https://ui.adsabs.harvard.edu/abs/2011ApJ...727..129A)
-
-1. **REJECT**  *Multi-wavelength Observations of the Flaring Gamma-ray Blazar 3C 66A in 2008 October*  
-   **Abdo, A. A. et al.**, [The Astrophysical Journal, 726, 43](https://doi.org/10.1088/0004-637X/726/1/43) **(2011)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/2011ApJ...726...43A](https://ui.adsabs.harvard.edu/abs/2011ApJ...726...43A)
-
-1. **REJECT**  *VERITAS Search for VHE Gamma-ray Emission from Dwarf Spheroidal Galaxies*  
-   **Acciari, V. A. et al.**, [The Astrophysical Journal, 720, 1174](https://doi.org/10.1088/0004-637X/720/2/1174) **(2010)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/2010ApJ...720.1174A](https://ui.adsabs.harvard.edu/abs/2010ApJ...720.1174A)
-
-1. **REJECT**  *Discovery of Very High Energy γ-ray Emission from the SNR G54.1+0.3*  
-   **Acciari, V. A. et al.**, [The Astrophysical Journal, 719, L69](https://doi.org/10.1088/2041-8205/719/1/L69) **(2010)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/2010ApJ...719L..69A](https://ui.adsabs.harvard.edu/abs/2010ApJ...719L..69A)
-
-1. *The Nineteenth-Century Spiral Nebula Whodunit*  
-   **Weekes, Trevor C. et al.**, [Physics in Perspective, 12, 146](https://doi.org/10.1007/s00016-010-0018-5) **(2010)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/2010PhP....12..146W](https://ui.adsabs.harvard.edu/abs/2010PhP....12..146W)
-
-1. **REJECT**  *Veritas 2008-2009 Monitoring of the Variable Gamma-ray Source M 87*  
-   **Acciari, V. A. et al.**, [The Astrophysical Journal, 716, 819](https://doi.org/10.1088/0004-637X/716/1/819) **(2010)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/2010ApJ...716..819A](https://ui.adsabs.harvard.edu/abs/2010ApJ...716..819A)
-
 1. **REJECT**  *The Discovery of γ-Ray Emission from the Blazar RGB J0710+591*  
    **Acciari, V. A. et al.**, [The Astrophysical Journal, 715, L49](https://doi.org/10.1088/2041-8205/715/1/L49) **(2010)**  
    ADS: [https://ui.adsabs.harvard.edu/abs/2010ApJ...715L..49A](https://ui.adsabs.harvard.edu/abs/2010ApJ...715L..49A)
