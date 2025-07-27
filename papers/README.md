@@ -5,18 +5,6 @@
 1. **Aleksić, J. et al.**, *The 2009 multiwavelength campaign on Mrk 421: Variability and correlation studies*, **2015A&A...576A.126A (2015)**  
    [https://ui.adsabs.harvard.edu/abs/2015A&A...576A.126A](https://ui.adsabs.harvard.edu/abs/2015A&A...576A.126A)
 
-1. **REJECT**  **Aleksić, J. et al.**, *Multiwavelength observations of Mrk 501 in 2008*, **2015A&A...573A..50A (2015)**  
-   [https://ui.adsabs.harvard.edu/abs/2015A&A...573A..50A](https://ui.adsabs.harvard.edu/abs/2015A&A...573A..50A)
-
-1. **REJECT**  **Aliu, E. et al.**, *Investigating Broadband Variability of the TeV Blazar 1ES 1959+650*, **2014ApJ...797...89A (2014)**  
-   [https://ui.adsabs.harvard.edu/abs/2014ApJ...797...89A](https://ui.adsabs.harvard.edu/abs/2014ApJ...797...89A)
-
-1. **REJECT**  **Aliu, E. et al.**, *Observations of the Unidentified Gamma-Ray Source TeV J2032+4130 by VERITAS*, **2014ApJ...783...16A (2014)**  
-   [https://ui.adsabs.harvard.edu/abs/2014ApJ...783...16A](https://ui.adsabs.harvard.edu/abs/2014ApJ...783...16A)
-
-1. **REJECT**  **Aliu, E. et al.**, *A Three-year Multi-wavelength Study of the Very-high-energy γ-Ray Blazar 1ES 0229+200*, **2014ApJ...782...13A (2014)**  
-   [https://ui.adsabs.harvard.edu/abs/2014ApJ...782...13A](https://ui.adsabs.harvard.edu/abs/2014ApJ...782...13A)
-
 1. **Acciari, V. A. et al.**, *Observation of Markarian 421 in TeV gamma rays over a 14-year time span*, **2014APh....54....1A (2014)**  
    [https://ui.adsabs.harvard.edu/abs/2014APh....54....1A](https://ui.adsabs.harvard.edu/abs/2014APh....54....1A)
 
