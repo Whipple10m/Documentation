@@ -1,6 +1,6 @@
 # List of Whipple papers
 
-Here we compile a list of papers that describe the Whipple 10m telescope and its campaign of observations from 1968 to 2008. The list was generated from a search of [ADS](https://ui.adsabs.harvard.edu/) for the PI of Whipple, [Trevor C. Weekes](https://en.wikipedia.org/wiki/Trevor_C._Weekes), and removing entries that do not seem to refer to the Whipple 10m. As such, papers on which Trevor was not a co-author, and papers missing from ADS, may not be present on this list. Your corrections and suggestions welcome.
+Here we compile a list of papers that describe the Whipple 10m telescope and its campaign of observations from 1968 to 2008. The list was generated from a search of [ADS](https://ui.adsabs.harvard.edu/) for the PI of Whipple, [Trevor C. Weekes](https://en.wikipedia.org/wiki/Trevor_C._Weekes), and removing entries that do not seem to refer to the Whipple 10m. As such, papers on which Trevor was not a co-author and papers missing entirely from ADS may not be present on this list. Your corrections and suggestions welcome.
 
 1. *The 2009 multiwavelength campaign on Mrk 421: Variability and correlation studies*  
    **Aleksić, J. et al.**, [Astronomy and Astrophysics, 576, A126](https://doi.org/10.1051/0004-6361/201424216) **(2015)**  
