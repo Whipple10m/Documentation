@@ -1,6 +1,6 @@
-# List of papers Whipple papers (possibly incomplete)
+# List of Whipple papers
 
-(This initial list from ADS needs to be filtered)
+Here we compile a list of papers that describe the Whipple 10m telescope and its campaign of observations from 1968 to 2008. The list was generated from a search of [ADS](https://ui.adsabs.harvard.edu/) for the PI of Whipple, [Trevor C. Weekes](https://en.wikipedia.org/wiki/Trevor_C._Weekes), and removing entries that do not seem to refer to the Whipple 10m. As such, papers on which Trevor was not a co-author, and papers missing from ADS, may not be present on this list. Your corrections and suggestions welcome.
 
 1. *The 2009 multiwavelength campaign on Mrk 421: Variability and correlation studies*  
    **Aleksić, J. et al.**, [Astronomy and Astrophysics, 576, A126](https://doi.org/10.1051/0004-6361/201424216) **(2015)**  
@@ -470,35 +470,9 @@
    **Porter, N. A. et al.**, [Nature, 267, 500](https://doi.org/10.1038/267500a0) **(1977)**  
    ADS: [https://ui.adsabs.harvard.edu/abs/1977Natur.267..500P](https://ui.adsabs.harvard.edu/abs/1977Natur.267..500P)
 
-STOP
-
-1. *An upper limit to the rate of gamma-ray bursts from primordial black hole explosions.*  
-   **Porter, N. A. et al.**, [The Astrophysical Journal, 212, 224](https://doi.org/10.1086/155040) **(1977)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/1977ApJ...212..224P](https://ui.adsabs.harvard.edu/abs/1977ApJ...212..224P)
-
-1. *Gamma rays and the origin of cosmic radiation.*  
-   **Weekes, T. et al.**, Astronomy, 5, 6 **(1977)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/1977Ast.....5f...6W](https://ui.adsabs.harvard.edu/abs/1977Ast.....5f...6W)
-
-1. *Atmospheric fluorescence as a means of detecting X-ray and gamma ray transients.*  
-   **Weekes, T. C. et al.**, [Journal of Atmospheric and Terrestrial Physics, 38, 1021](https://doi.org/10.1016/0021-9169(76)90086-6) **(1976)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/1976JATP...38.1021W](https://ui.adsabs.harvard.edu/abs/1976JATP...38.1021W)
-
 1. *Evidence for a variable flux of >10<SUP>11</SUP>eV gamma rays from NP 0532.*  
    **Grindlay, J. E. et al.**, [The Astrophysical Journal, 209, 592](https://doi.org/10.1086/154755) **(1976)**  
    ADS: [https://ui.adsabs.harvard.edu/abs/1976ApJ...209..592G](https://ui.adsabs.harvard.edu/abs/1976ApJ...209..592G)
-
-1. *The sensitivity of atmospheric Cerenkov detectors for gamma-ray astronomy.*  
-   **Weekes, T. C. et al.**, [Nuovo Cimento B Serie, 35, 95](https://doi.org/10.1007/BF02726286) **(1976)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/1976NCimB..35...95W](https://ui.adsabs.harvard.edu/abs/1976NCimB..35...95W)
-
-1. *Observations of NP 0532 with a wide-angle atmospheric Cerenkov system.*  
-   **Porter, N. A. et al.**, [Nuovo Cimento B Serie, 32, 514](https://doi.org/10.1007/BF02727653) **(1976)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/1976NCimB..32..514P](https://ui.adsabs.harvard.edu/abs/1976NCimB..32..514P)
-
-1. *Antineutrino bursts and cosmic-ray air shower experiments.*  
-   **Weekes, T. C. et al.**, Astronomy and Astrophysics, 37, 447 **(1974)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/1974A&A....37..447W](https://ui.adsabs.harvard.edu/abs/1974A&A....37..447W)
 
 1. *A Search for Radio and Optical Bursts from Catastrophic Events*  
    **O'Mongain, E. et al.**, [Publications of the Astronomical Society of the Pacific, 86, 470](https://doi.org/10.1086/129633) **(1974)**  
@@ -516,18 +490,6 @@ STOP
    **Weekes, T. C. et al.**, [The Astrophysical Journal, 174, 165](https://doi.org/10.1086/151479) **(1972)**  
    ADS: [https://ui.adsabs.harvard.edu/abs/1972ApJ...174..165W](https://ui.adsabs.harvard.edu/abs/1972ApJ...174..165W)
 
-1. *Time Variations in High Energy Cosmic Rays*  
-   **Weekes, Trevor C. et al.**, [Nature Physical Science, 233, 129](https://doi.org/10.1038/physci233129a0) **(1971)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/1971NPhS..233..129W](https://ui.adsabs.harvard.edu/abs/1971NPhS..233..129W)
-
-1. *Flare Star Observations during Satellite X-Ray Experiments*  
-   **Weekes, T. C. et al.**, Information Bulletin on Variable Stars, 492, 1 **(1970)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/1970IBVS..492....1W](https://ui.adsabs.harvard.edu/abs/1970IBVS..492....1W)
-
-1. *Production of Cosmic Gamma Rays by Compton Scattering in Discrete Sources*  
-   **Rieke, G. H. et al.**, [The Astrophysical Journal, 155, 429](https://doi.org/10.1086/149879) **(1969)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/1969ApJ...155..429R](https://ui.adsabs.harvard.edu/abs/1969ApJ...155..429R)
-
 1. *Upper Limits to Gamma Ray Fluxes from Three Pulsating Radio Sources*  
    **Fazio, G. G. et al.**, [Nature, 220, 892](https://doi.org/10.1038/220892a0) **(1968)**  
    ADS: [https://ui.adsabs.harvard.edu/abs/1968Natur.220..892F](https://ui.adsabs.harvard.edu/abs/1968Natur.220..892F)
@@ -539,24 +501,3 @@ STOP
 1. *An experiment to search for discrete sources of cosmic gamma rays in the 10<SUP>11</SUP> to 10<SUP>12</SUP>eV region*  
    **Fazio, G. G. et al.**, [Canadian Journal of Physics, 46, S451](https://doi.org/10.1139/p68-268) **(1968)**  
    ADS: [https://ui.adsabs.harvard.edu/abs/1968CaJPh..46S.451F](https://ui.adsabs.harvard.edu/abs/1968CaJPh..46S.451F)
-
-1. *An experiment to search for discrete sources of cosmic gamma rays in the 10<SUP>11</SUP> to 10<SUP>12</SUP> eV region*  
-   **Fazio, G. G. et al.**, [Canadian Journal of Physics Supplement, 46, 451](https://doi.org/10.1139/p68-268) **(1968)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/1968CaJPS..46..451F](https://ui.adsabs.harvard.edu/abs/1968CaJPS..46..451F)
-
-1. *Radio pulses from extensive air showers*  
-   **Jelley, J. V. et al.**, [Nuovo Cimento A Serie, 46, 649](https://doi.org/10.1007/BF02857512) **(1966)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/1966NCimA..46..649J](https://ui.adsabs.harvard.edu/abs/1966NCimA..46..649J)
-
-1. *Detection of radio pulses from extensive air showers, with a wide-band receiving system*  
-   **Porter, N. A. et al.**, [Physics Letters, 19, 415](https://doi.org/10.1016/0031-9163(65)90923-6) **(1965)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/1965PhL....19..415P](https://ui.adsabs.harvard.edu/abs/1965PhL....19..415P)
-
-1. *Radio Pulses from Extensive Cosmic-Ray Air Showers*  
-   **Jelley, J. V. et al.**, [Nature, 205, 327](https://doi.org/10.1038/205327a0) **(1965)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/1965Natur.205..327J](https://ui.adsabs.harvard.edu/abs/1965Natur.205..327J)
-
-1. *Flux limits for high - energy - rays from quasi - stellar and other radio sources*  
-   **Fruin, J. H. et al.**, [Physics Letters, 10, 176](https://doi.org/10.1016/0031-9163(64)90159-3) **(1964)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/1964PhL....10..176F](https://ui.adsabs.harvard.edu/abs/1964PhL....10..176F)
-
