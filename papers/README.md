@@ -10,31 +10,7 @@
    **Acciari, V. A. et al.**, [Astroparticle Physics, 54, 1](https://doi.org/10.1016/j.astropartphys.2013.10.004) **(2014)**  
    ADS: [https://ui.adsabs.harvard.edu/abs/2014APh....54....1A](https://ui.adsabs.harvard.edu/abs/2014APh....54....1A)
 
-1. **REJECT**  *The 2010 Very High Energy γ-Ray Flare and 10 Years of Multi-wavelength Observations of M 87*  
-   **Abramowski, A. et al.**, [The Astrophysical Journal, 746, 151](https://doi.org/10.1088/0004-637X/746/2/151) **(2012)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/2012ApJ...746..151A](https://ui.adsabs.harvard.edu/abs/2012ApJ...746..151A)
-
-1. **REJECT**  *VERITAS Observations of Day-scale Flaring of M 87 in 2010 April*  
-   **Aliu, E. et al.**, [The Astrophysical Journal, 746, 141](https://doi.org/10.1088/0004-637X/746/2/141) **(2012)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/2012ApJ...746..141A](https://ui.adsabs.harvard.edu/abs/2012ApJ...746..141A)
-
-1. **REJECT**  *VERITAS Observations of Gamma-Ray Bursts Detected by Swift*  
-   **Acciari, V. A. et al.**, [The Astrophysical Journal, 743, 62](https://doi.org/10.1088/0004-637X/743/1/62) **(2011)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/2011ApJ...743...62A](https://ui.adsabs.harvard.edu/abs/2011ApJ...743...62A)
-
-1. **REJECT**  *Multiwavelength Observations of the Previously Unidentified Blazar RX J0648.7+1516*  
-   **Aliu, E. et al.**, [The Astrophysical Journal, 742, 127](https://doi.org/10.1088/0004-637X/742/2/127) **(2011)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/2011ApJ...742..127A](https://ui.adsabs.harvard.edu/abs/2011ApJ...742..127A)
-
-1. **REJECT**  *Detection of Pulsed Gamma Rays Above 100 GeV from the Crab Pulsar*  
-   **VERITAS Collaboration et al.**, [Science, 334, 69](https://doi.org/10.1126/science.1208192) **(2011)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/2011Sci...334...69V](https://ui.adsabs.harvard.edu/abs/2011Sci...334...69V)
-
-1. **REJECT**  *Multiwavelength Observations of the Very High Energy Blazar 1ES 2344+514*  
-   **Acciari, V. A. et al.**, [The Astrophysical Journal, 738, 169](https://doi.org/10.1088/0004-637X/738/2/169) **(2011)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/2011ApJ...738..169A](https://ui.adsabs.harvard.edu/abs/2011ApJ...738..169A)
-
-1. **REJECT**  *TeV and Multi-wavelength Observations of Mrk 421 in 2006-2008*  
+1. *TeV and Multi-wavelength Observations of Mrk 421 in 2006-2008*  
    **Acciari, V. A. et al.**, [The Astrophysical Journal, 738, 25](https://doi.org/10.1088/0004-637X/738/1/25) **(2011)**  
    ADS: [https://ui.adsabs.harvard.edu/abs/2011ApJ...738...25A](https://ui.adsabs.harvard.edu/abs/2011ApJ...738...25A)
 
