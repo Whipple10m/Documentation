@@ -18,91 +18,47 @@
    **Acciari, V. A. et al.**, [The Astrophysical Journal, 703, 169](https://doi.org/10.1088/0004-637X/703/1/169) **(2009)**  
    ADS: [https://ui.adsabs.harvard.edu/abs/2009ApJ...703..169A](https://ui.adsabs.harvard.edu/abs/2009ApJ...703..169A)
 
-1. **REJECT**  *Evidence for Long-Term Gamma-Ray and X-Ray Variability from the Unidentified TeV Source HESS J0632+057*  
-   **Acciari, V. A. et al.**, [The Astrophysical Journal, 698, L94](https://doi.org/10.1088/0004-637X/698/2/L94) **(2009)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/2009ApJ...698L..94A](https://ui.adsabs.harvard.edu/abs/2009ApJ...698L..94A)
-
-1. **REJECT**  *VERITAS Observations of the BL Lac Object 1ES 1218+304*  
-   **Acciari, V. A. et al.**, [The Astrophysical Journal, 695, 1370](https://doi.org/10.1088/0004-637X/695/2/1370) **(2009)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/2009ApJ...695.1370A](https://ui.adsabs.harvard.edu/abs/2009ApJ...695.1370A)
-
 1. *Multiwavelength Observations of Markarian 421 in 2005-2006*  
    **Horan, D. et al.**, [The Astrophysical Journal, 695, 596](https://doi.org/10.1088/0004-637X/695/1/596) **(2009)**  
    ADS: [https://ui.adsabs.harvard.edu/abs/2009ApJ...695..596H](https://ui.adsabs.harvard.edu/abs/2009ApJ...695..596H)
-
-1. **REJECT**  *Veritas Observations of a Very High Energy γ-Ray Flare From the Blazar 3C 66A*  
-   **Acciari, V. A. et al.**, [The Astrophysical Journal, 693, L104](https://doi.org/10.1088/0004-637X/693/2/L104) **(2009)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/2009ApJ...693L.104A](https://ui.adsabs.harvard.edu/abs/2009ApJ...693L.104A)
 
 1. *Search for primordial black holes with SGARFACE*  
    **Schroedter, M. et al.**, [Astroparticle Physics, 31, 102](https://doi.org/10.1016/j.astropartphys.2008.12.002) **(2009)**  
    ADS: [https://ui.adsabs.harvard.edu/abs/2009APh....31..102S](https://ui.adsabs.harvard.edu/abs/2009APh....31..102S)
 
-1. **REJECT**  *The June 2008 Flare of Markarian 421 from Optical to TeV Energies*  
-   **Donnarumma, I. et al.**, [The Astrophysical Journal, 691, L13](https://doi.org/10.1088/0004-637X/691/1/L13) **(2009)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/2009ApJ...691L..13D](https://ui.adsabs.harvard.edu/abs/2009ApJ...691L..13D)
-
-1. **REJECT**  *Discovery of Very High Energy Gamma-ray Radiation from the BL Lac 1ES 0806+524*  
-   **Acciari, V. et al.**, [The Astrophysical Journal, 690, L126](https://doi.org/10.1088/0004-637X/690/2/L126) **(2009)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/2009ApJ...690L.126A](https://ui.adsabs.harvard.edu/abs/2009ApJ...690L.126A)
-
-1. **REJECT**  *VERITAS Discovery of >200 GeV Gamma-Ray Emission from the Intermediate-Frequency-Peaked BL Lacertae Object W Comae*  
-   **Acciari, V. A. et al.**, [The Astrophysical Journal, 684, L73](https://doi.org/10.1086/592244) **(2008)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/2008ApJ...684L..73A](https://ui.adsabs.harvard.edu/abs/2008ApJ...684L..73A)
-
-1. **REJECT**  *VERITAS Observations of the γ-Ray Binary LS I +61 303*  
-   **Acciari, V. A. et al.**, [The Astrophysical Journal, 679, 1427](https://doi.org/10.1086/587736) **(2008)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/2008ApJ...679.1427A](https://ui.adsabs.harvard.edu/abs/2008ApJ...679.1427A)
-
-1. **REJECT**  *Observation of Gamma-Ray Emission from the Galaxy M87 above 250 GeV with VERITAS*  
-   **Acciari, V. A. et al.**, [The Astrophysical Journal, 679, 397](https://doi.org/10.1086/587458) **(2008)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/2008ApJ...679..397A](https://ui.adsabs.harvard.edu/abs/2008ApJ...679..397A)
-
-1. **REJECT**  *A Search for Dark Matter Annihilation with the Whipple 10 m Telescope*  
+1. *A Search for Dark Matter Annihilation with the Whipple 10 m Telescope*  
    **Wood, M. et al.**, [The Astrophysical Journal, 678, 594](https://doi.org/10.1086/529421) **(2008)**  
    ADS: [https://ui.adsabs.harvard.edu/abs/2008ApJ...678..594W](https://ui.adsabs.harvard.edu/abs/2008ApJ...678..594W)
-
-1. **REJECT**  *First results from VERITAS*  
-   **Hanna, D. et al.**, [Nuclear Instruments and Methods in Physics Research A, 588, 26](https://doi.org/10.1016/j.nima.2008.01.020) **(2008)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/2008NIMPA.588...26H](https://ui.adsabs.harvard.edu/abs/2008NIMPA.588...26H)
 
 1. *Multiwavelength Observations of Markarian 421 in 2001 March: An Unprecedented View on the X-Ray/TeV Correlated Variability*  
    **Fossati, G. et al.**, [The Astrophysical Journal, 677, 906](https://doi.org/10.1086/527311) **(2008)**  
    ADS: [https://ui.adsabs.harvard.edu/abs/2008ApJ...677..906F](https://ui.adsabs.harvard.edu/abs/2008ApJ...677..906F)
 
-1. **REJECT**  *The Whipple Observatory 10 m gamma-ray telescope, 1997 2006*  
+1. *The Whipple Observatory 10 m gamma-ray telescope, 1997 2006*  
    **Kildea, J. et al.**, [Astroparticle Physics, 28, 182](https://doi.org/10.1016/j.astropartphys.2007.05.004) **(2007)**  
    ADS: [https://ui.adsabs.harvard.edu/abs/2007APh....28..182K](https://ui.adsabs.harvard.edu/abs/2007APh....28..182K)
-
-1. *Astrophysics: Photons from a hotter hell*  
-   **Weekes, Trevor et al.**, [Nature, 448, 760](https://doi.org/10.1038/448760a) **(2007)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/2007Natur.448..760W](https://ui.adsabs.harvard.edu/abs/2007Natur.448..760W)
 
 1. *Whipple telescope observations of LS I +61 303: 2004–2006*  
    **Smith, A. et al.**, [Astrophysics and Space Science, 309, 299](https://doi.org/10.1007/s10509-007-9473-0) **(2007)**  
    ADS: [https://ui.adsabs.harvard.edu/abs/2007Ap&SS.309..299S](https://ui.adsabs.harvard.edu/abs/2007Ap&SS.309..299S)
 
-1. **REJECT**  *Observations of the Unidentified TeV γ-Ray Source TeV J2032+4130 with the Whipple Observatory 10 m Telescope*  
+1. *Observations of the Unidentified TeV γ-Ray Source TeV J2032+4130 with the Whipple Observatory 10 m Telescope*  
    **Konopelko, A. et al.**, [The Astrophysical Journal, 658, 1062](https://doi.org/10.1086/511262) **(2007)**  
    ADS: [https://ui.adsabs.harvard.edu/abs/2007ApJ...658.1062K](https://ui.adsabs.harvard.edu/abs/2007ApJ...658.1062K)
 
-1. **REJECT**  *Very High Energy Observations of Gamma-Ray Burst Locations with the Whipple Telescope*  
+1. *Very High Energy Observations of Gamma-Ray Burst Locations with the Whipple Telescope*  
    **Horan, D. et al.**, [The Astrophysical Journal, 655, 396](https://doi.org/10.1086/509567) **(2007)**  
    ADS: [https://ui.adsabs.harvard.edu/abs/2007ApJ...655..396H](https://ui.adsabs.harvard.edu/abs/2007ApJ...655..396H)
 
-1. **REJECT**  *The first VERITAS telescope*  
-   **Holder, J. et al.**, [Astroparticle Physics, 25, 391](https://doi.org/10.1016/j.astropartphys.2006.04.002) **(2006)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/2006APh....25..391H](https://ui.adsabs.harvard.edu/abs/2006APh....25..391H)
-
-1. **REJECT**  *Multiwavelength Observations of 1ES 1959+650, 1 Year after the Strong Outburst of 2002*  
+1. *Multiwavelength Observations of 1ES 1959+650, 1 Year after the Strong Outburst of 2002*  
    **Gutierrez, K. et al.**, [The Astrophysical Journal, 644, 742](https://doi.org/10.1086/503738) **(2006)**  
    ADS: [https://ui.adsabs.harvard.edu/abs/2006ApJ...644..742G](https://ui.adsabs.harvard.edu/abs/2006ApJ...644..742G)
 
-1. **REJECT**  *TeV Gamma-Ray Observations of the Perseus and Abell 2029 Galaxy Clusters*  
+1. *TeV Gamma-Ray Observations of the Perseus and Abell 2029 Galaxy Clusters*  
    **Perkins, J. S. et al.**, [The Astrophysical Journal, 644, 148](https://doi.org/10.1086/503321) **(2006)**  
    ADS: [https://ui.adsabs.harvard.edu/abs/2006ApJ...644..148P](https://ui.adsabs.harvard.edu/abs/2006ApJ...644..148P)
 
-1. **REJECT**  *Multiwavelength Observations of the Blazar Markarian 421 in 2002 December and 2003 January*  
+1. *Multiwavelength Observations of the Blazar Markarian 421 in 2002 December and 2003 January*  
    **Rebillot, P. F. et al.**, [The Astrophysical Journal, 641, 740](https://doi.org/10.1086/500653) **(2006)**  
    ADS: [https://ui.adsabs.harvard.edu/abs/2006ApJ...641..740R](https://ui.adsabs.harvard.edu/abs/2006ApJ...641..740R)
 
@@ -114,11 +70,11 @@
    **Schroedter, M. et al.**, [The Astrophysical Journal, 634, 947](https://doi.org/10.1086/496968) **(2005)**  
    ADS: [https://ui.adsabs.harvard.edu/abs/2005ApJ...634..947S](https://ui.adsabs.harvard.edu/abs/2005ApJ...634..947S)
 
-1. **REJECT**  *A Multiwavelength View of the TeV Blazar Markarian 421: Correlated Variability, Flaring, and Spectral Evolution*  
+1. *A Multiwavelength View of the TeV Blazar Markarian 421: Correlated Variability, Flaring, and Spectral Evolution*  
    **Błażejowski, M. et al.**, [The Astrophysical Journal, 630, 130](https://doi.org/10.1086/431925) **(2005)**  
    ADS: [https://ui.adsabs.harvard.edu/abs/2005ApJ...630..130B](https://ui.adsabs.harvard.edu/abs/2005ApJ...630..130B)
 
-1. **REJECT**  *A Survey of Unidentified Egret Sources at TeV Energies*  
+1. *A Survey of Unidentified Egret Sources at TeV Energies*  
    **Fegan, S. J. et al.**, [Astrophysics and Space Science, 297, 431](https://doi.org/10.1007/s10509-005-7703-x) **(2005)**  
    ADS: [https://ui.adsabs.harvard.edu/abs/2005Ap&SS.297..431F](https://ui.adsabs.harvard.edu/abs/2005Ap&SS.297..431F)
 
@@ -138,10 +94,6 @@
    **Falcone, A. D. et al.**, [The Astrophysical Journal, 613, 710](https://doi.org/10.1086/423128) **(2004)**  
    ADS: [https://ui.adsabs.harvard.edu/abs/2004ApJ...613..710F](https://ui.adsabs.harvard.edu/abs/2004ApJ...613..710F)
 
-1. *Very High Energy Gamma-Ray Astronomy*  
-   **Weekes, T. C. et al.**, [Physics Today, 57, 63](https://doi.org/10.1063/1.1809099) **(2004)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/2004PhT....57i..63W](https://ui.adsabs.harvard.edu/abs/2004PhT....57i..63W)
-
 1. *Evidence for TeV gamma ray emission from TeV J2032+4130  in Whipple archival data*  
    **Lang, M. J. et al.**, [Astronomy and Astrophysics, 423, 415](https://doi.org/10.1051/0004-6361:20041021) **(2004)**  
    ADS: [https://ui.adsabs.harvard.edu/abs/2004A&A...423..415L](https://ui.adsabs.harvard.edu/abs/2004A&A...423..415L)
@@ -153,14 +105,6 @@
 1. *TeV Gamma-Ray Observations of the Galactic Center*  
    **Kosack, K. et al.**, [The Astrophysical Journal, 608, L97](https://doi.org/10.1086/422469) **(2004)**  
    ADS: [https://ui.adsabs.harvard.edu/abs/2004ApJ...608L..97K](https://ui.adsabs.harvard.edu/abs/2004ApJ...608L..97K)
-
-1. *Extragalactic sources of TeV gamma rays: a summary*  
-   **Horan, D. et al.**, [New Astronomy Reviews, 48, 527](https://doi.org/10.1016/j.newar.2003.12.057) **(2004)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/2004NewAR..48..527H](https://ui.adsabs.harvard.edu/abs/2004NewAR..48..527H)
-
-1. **REJECT**  *VERITAS: the Very Energetic Radiation Imaging Telescope Array System*  
-   **Krennrich, F. et al.**, [New Astronomy Reviews, 48, 345](https://doi.org/10.1016/j.newar.2003.12.050) **(2004)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/2004NewAR..48..345K](https://ui.adsabs.harvard.edu/abs/2004NewAR..48..345K)
 
 1. *Constraints on the Very High Energy Emission from BL Lacertae Objects*  
    **Horan, D. et al.**, [The Astrophysical Journal, 603, 51](https://doi.org/10.1086/381430) **(2004)**  
@@ -182,7 +126,7 @@
    **Holder, J. et al.**, [The Astrophysical Journal, 583, L9](https://doi.org/10.1086/367816) **(2003)**  
    ADS: [https://ui.adsabs.harvard.edu/abs/2003ApJ...583L...9H](https://ui.adsabs.harvard.edu/abs/2003ApJ...583L...9H)
 
-1. **REJECT**  *The TeV Spectrum of H1426+428*  
+1. *The TeV Spectrum of H1426+428*  
    **Petry, D. et al.**, [The Astrophysical Journal, 580, 104](https://doi.org/10.1086/343102) **(2002)**  
    ADS: [https://ui.adsabs.harvard.edu/abs/2002ApJ...580..104P](https://ui.adsabs.harvard.edu/abs/2002ApJ...580..104P)
 
@@ -194,15 +138,7 @@
    **Horan, D. et al.**, [The Astrophysical Journal, 571, 753](https://doi.org/10.1086/340019) **(2002)**  
    ADS: [https://ui.adsabs.harvard.edu/abs/2002ApJ...571..753H](https://ui.adsabs.harvard.edu/abs/2002ApJ...571..753H)
 
-1. **REJECT**  *VERITAS: the Very Energetic Radiation Imaging Telescope Array System*  
-   **Weekes, T. C. et al.**, [Astroparticle Physics, 17, 221](https://doi.org/10.1016/S0927-6505(01)00152-9) **(2002)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/2002APh....17..221W](https://ui.adsabs.harvard.edu/abs/2002APh....17..221W)
-
-1. **REJECT**  *On the application of differences in intrinsic fluctuations of Cherenkov light images for separation of showers*  
-   **Bugayov, V. V. et al.**, [Astroparticle Physics, 17, 41](https://doi.org/10.1016/S0927-6505(01)00128-1) **(2002)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/2002APh....17...41B](https://ui.adsabs.harvard.edu/abs/2002APh....17...41B)
-
-1. **REJECT**  *Búsqueda de emisión transitoria de radiación gamma de TeV proveniente del microcuasar GRS1915+105*  
+1. *Búsqueda de emisión transitoria de radiación gamma de TeV proveniente del microcuasar GRS1915+105*  
    **Rovero, A. C. et al.**, Boletin de la Asociacion Argentina de Astronomia La Plata Argentina, 45, 66 **(2002)**  
    ADS: [https://ui.adsabs.harvard.edu/abs/2002BAAA...45...66R](https://ui.adsabs.harvard.edu/abs/2002BAAA...45...66R)
 
@@ -230,10 +166,6 @@
    **Lessard, R. W. et al.**, [The Astrophysical Journal, 531, 942](https://doi.org/10.1086/308495) **(2000)**  
    ADS: [https://ui.adsabs.harvard.edu/abs/2000ApJ...531..942L](https://ui.adsabs.harvard.edu/abs/2000ApJ...531..942L)
 
-1. *Particle Astrophysics with High Energy Photons*  
-   **Weekes, T. C. et al.**, [Physica Scripta Volume T, 85, 195](https://doi.org/10.1238/Physica.Topical.085a00195) **(2000)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/2000PhST...85..195W](https://ui.adsabs.harvard.edu/abs/2000PhST...85..195W)
-
 1. *Detection Techniques of Microsecond Gamma-Ray Bursts Using Ground-based Telescopes*  
    **Krennrich, F. et al.**, [The Astrophysical Journal, 529, 506](https://doi.org/10.1086/308261) **(2000)**  
    ADS: [https://ui.adsabs.harvard.edu/abs/2000ApJ...529..506K](https://ui.adsabs.harvard.edu/abs/2000ApJ...529..506K)
@@ -241,14 +173,6 @@
 1. *Simultaneous X-Ray and TEV Observations of a Rapid Flare from Markarian 421*  
    **Maraschi, L. et al.**, [The Astrophysical Journal, 526, L81](https://doi.org/10.1086/312370) **(1999)**  
    ADS: [https://ui.adsabs.harvard.edu/abs/1999ApJ...526L..81M](https://ui.adsabs.harvard.edu/abs/1999ApJ...526L..81M)
-
-1. *Klebesadel, Strong, & Olson's Discovery of Gamma-Ray Bursts*  
-   **Weekes, Trevor C. et al.**, The Astrophysical Journal, 525C, 1218 **(1999)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/1999ApJ...525C1218W](https://ui.adsabs.harvard.edu/abs/1999ApJ...525C1218W)
-
-1. *Very High Energy Gamma-Ray Astronomy*  
-   **Catanese, Michael et al.**, [Publications of the Astronomical Society of the Pacific, 111, 1193](https://doi.org/10.1086/316435) **(1999)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/1999PASP..111.1193C](https://ui.adsabs.harvard.edu/abs/1999PASP..111.1193C)
 
 1. *Limits to Quantum Gravity Effects on Energy Dependence of the Speed of Light from Observations of TeV Flares in Active Galaxies*  
    **Biller, S. D. et al.**, [Physical Review Letters, 83, 2108](https://doi.org/10.1103/PhysRevLett.83.2108) **(1999)**  
@@ -269,14 +193,6 @@
 1. *Measurement of the Multi-TEV Gamma-Ray Flare Spectra of Markarian 421 and Markarian 501*  
    **Krennrich, F. et al.**, [The Astrophysical Journal, 511, 149](https://doi.org/10.1086/306677) **(1999)**  
    ADS: [https://ui.adsabs.harvard.edu/abs/1999ApJ...511..149K](https://ui.adsabs.harvard.edu/abs/1999ApJ...511..149K)
-
-1. **REJECT**  *Proceedings of the VERITAS Workshop on the TeV Astrophysics of Extragalactic Sources*  
-   **Catanese, Michael et al.**, [Astroparticle Physics, 11, xi](https://doi.org/10.1016/S0927-6505(99)00080-8) **(1999)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/1999APh....11D..11C](https://ui.adsabs.harvard.edu/abs/1999APh....11D..11C)
-
-1. **REJECT**  *TeV astrophysics of extragalactic sources : proceedings of the VERITAS Workshop on the TeV Astrophysics of Extragalactic Sources : Cambridge, MA, October 23-24, 1998*  
-   **Catanese, Michael et al.**, Astroparticle Physics, 11 **(1999)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/1999APh....11.....C](https://ui.adsabs.harvard.edu/abs/1999APh....11.....C)
 
 1. *A search for TeV emission from AE Aquarii*  
    **Lang, M. J. et al.**, [Astroparticle Physics, 9, 203](https://doi.org/10.1016/S0927-6505(98)00020-6) **(1998)**  
@@ -362,17 +278,9 @@
    **Weekes, T. C. et al.**, Astronomy and Astrophysics Supplement Series, 120, 603 **(1996)**  
    ADS: [https://ui.adsabs.harvard.edu/abs/1996A&AS..120C.603W](https://ui.adsabs.harvard.edu/abs/1996A&AS..120C.603W)
 
-1. *Absorption of radiocaesium by sheep after ingestion of contaminated soils*  
-   **Cooke, A. et al.**, [Science of the Total Environment, 192, 21](https://doi.org/10.1016/0048-9697(96)05288-6) **(1996)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/1996ScTEn.192...21C](https://ui.adsabs.harvard.edu/abs/1996ScTEn.192...21C)
-
 1. *Gamma-Ray Variability of the BL Lacertae Object Markarian 421*  
    **Buckley, J. H. et al.**, [The Astrophysical Journal, 472, L9](https://doi.org/10.1086/310352) **(1996)**  
    ADS: [https://ui.adsabs.harvard.edu/abs/1996ApJ...472L...9B](https://ui.adsabs.harvard.edu/abs/1996ApJ...472L...9B)
-
-1. *Extreme sterrenkunde: gammawaarnemingen vanaf de grond.*  
-   **Weekes, T. C. et al.**, Zenit, 23, 387 **(1996)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/1996Zenit..23..387W](https://ui.adsabs.harvard.edu/abs/1996Zenit..23..387W)
 
 1. *Extremely rapid bursts of TeV photons from the active galaxy Markarian 421*  
    **Gaidos, J. A. et al.**, [Nature, 383, 319](https://doi.org/10.1038/383319a0) **(1996)**  
@@ -394,17 +302,9 @@
    **Sarazin, X. et al.**, [Astroparticle Physics, 4, 227](https://doi.org/10.1016/0927-6505(95)00042-9) **(1996)**  
    ADS: [https://ui.adsabs.harvard.edu/abs/1996APh.....4..227S](https://ui.adsabs.harvard.edu/abs/1996APh.....4..227S)
 
-1. *Astronomy at the Extreme; Gamma Rays from the Ground.*  
-   **Weekes, T. C. et al.**, Zenit, 9, 387 **(1996)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/1996Zenit...9..387W](https://ui.adsabs.harvard.edu/abs/1996Zenit...9..387W)
-
 1. *The Atmospheric Cherenkov Technique in Very High Energy Gamma-Ray Astronomy*  
-   **Weekes, Trevor C. et al.**, [Space Science Reviews, 75, 1](https://doi.org/10.1007/BF00195020) **(1996)**  
+   **Weekes, Trevor C.**, [Space Science Reviews, 75, 1](https://doi.org/10.1007/BF00195020) **(1996)**  
    ADS: [https://ui.adsabs.harvard.edu/abs/1996SSRv...75....1W](https://ui.adsabs.harvard.edu/abs/1996SSRv...75....1W)
-
-1. *Astronomía Gamma desde El Leoncito*  
-   **Rovero, A. C. et al.**, Boletin de la Asociacion Argentina de Astronomia La Plata Argentina, 40, 1 **(1996)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/1996BAAA...40....1R](https://ui.adsabs.harvard.edu/abs/1996BAAA...40....1R)
 
 1. *Detection of Gamma Rays with E > 300 GeV from Markarian 501*  
    **Quinn, J. et al.**, [The Astrophysical Journal, 456, L83](https://doi.org/10.1086/309878) **(1996)**  
@@ -414,10 +314,6 @@
    **Kerrick, A. D. et al.**, [The Astrophysical Journal, 452, 588](https://doi.org/10.1086/176331) **(1995)**  
    ADS: [https://ui.adsabs.harvard.edu/abs/1995ApJ...452..588K](https://ui.adsabs.harvard.edu/abs/1995ApJ...452..588K)
 
-1. *Ground-Based Gamma-Ray Astronomy*  
-   **Jelley, John V. et al.**, Sky and Telescope, 90, 20 **(1995)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/1995S&T....90...20J](https://ui.adsabs.harvard.edu/abs/1995S&T....90...20J)
-
 1. *Multiwavelength Observations of Markarian 421 During a TeV/X-Ray Flare*  
    **Macomb, D. J. et al.**, [The Astrophysical Journal, 449, L99](https://doi.org/10.1086/309646) **(1995)**  
    ADS: [https://ui.adsabs.harvard.edu/abs/1995ApJ...449L..99M](https://ui.adsabs.harvard.edu/abs/1995ApJ...449L..99M)
@@ -425,14 +321,6 @@
 1. *An Upper Limit to the Infrared Background from Observations of TeV Gamma Rays*  
    **Biller, S. D. et al.**, [The Astrophysical Journal, 445, 227](https://doi.org/10.1086/175689) **(1995)**  
    ADS: [https://ui.adsabs.harvard.edu/abs/1995ApJ...445..227B](https://ui.adsabs.harvard.edu/abs/1995ApJ...445..227B)
-
-1. *TEV gamma ray astronomy.*  
-   **Weekes, Trevor C. et al.**, [Nuclear Physics B Proceedings Supplements, 38, 457](https://doi.org/10.1016/0920-5632(94)00781-P) **(1995)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/1995NuPhS..38..457W](https://ui.adsabs.harvard.edu/abs/1995NuPhS..38..457W)
-
-1. *Instrumentation for Very High Energy Gamma-Ray Astronomy*  
-   **Cawley, M. F. et al.**, [Experimental Astronomy, 6, 7](https://doi.org/10.1007/BF00421124) **(1995)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/1995ExA.....6....7C](https://ui.adsabs.harvard.edu/abs/1995ExA.....6....7C)
 
 1. *Outburst of TeV Photons from Markarian 421*  
    **Kerrick, A. D. et al.**, [The Astrophysical Journal, 438, L59](https://doi.org/10.1086/187715) **(1995)**  
@@ -450,10 +338,6 @@
    **Fomin, V. P. et al.**, [Astroparticle Physics, 2, 137](https://doi.org/10.1016/0927-6505(94)90036-1) **(1994)**  
    ADS: [https://ui.adsabs.harvard.edu/abs/1994APh.....2..137F](https://ui.adsabs.harvard.edu/abs/1994APh.....2..137F)
 
-1. *Antimatter and the Moon.*  
-   **Chantell, M. et al.**, Nature, 368, 25 **(1994)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/1994Natur.368...25C](https://ui.adsabs.harvard.edu/abs/1994Natur.368...25C)
-
 1. *Muon ring images with an atmospheric Čerenkov telescope*  
    **Vacanti, G. et al.**, [Astroparticle Physics, 2, 1](https://doi.org/10.1016/0927-6505(94)90012-4) **(1994)**  
    ADS: [https://ui.adsabs.harvard.edu/abs/1994APh.....2....1V](https://ui.adsabs.harvard.edu/abs/1994APh.....2....1V)
@@ -470,10 +354,6 @@
    **Reynolds, P. T. et al.**, [The Astrophysical Journal, 404, 206](https://doi.org/10.1086/172269) **(1993)**  
    ADS: [https://ui.adsabs.harvard.edu/abs/1993ApJ...404..206R](https://ui.adsabs.harvard.edu/abs/1993ApJ...404..206R)
 
-1. *The search for discrete astrophysical sources of energetic gamma radiation*  
-   **Cronin, J. W. et al.**, [Annual Review of Nuclear and Particle Science, 43, 883](https://doi.org/10.1146/annurev.ns.43.120193.004315) **(1993)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/1993ARNPS..43..883C](https://ui.adsabs.harvard.edu/abs/1993ARNPS..43..883C)
-
 1. *Development of a high altitude air shower array for gamma-ray astronomy*  
    **Gillanders, G. H. et al.**, [Nuclear Instruments and Methods in Physics Research A, 323, 677](https://doi.org/10.1016/0168-9002(92)90014-U) **(1992)**  
    ADS: [https://ui.adsabs.harvard.edu/abs/1992NIMPA.323..677G](https://ui.adsabs.harvard.edu/abs/1992NIMPA.323..677G)
@@ -486,17 +366,9 @@
    **Punch, M. et al.**, [Nature, 358, 477](https://doi.org/10.1038/358477a0) **(1992)**  
    ADS: [https://ui.adsabs.harvard.edu/abs/1992Natur.358..477P](https://ui.adsabs.harvard.edu/abs/1992Natur.358..477P)
 
-1. *Tev Radiation from Galactic Sources*  
-   **Weekes, Trevor C. et al.**, [Space Science Reviews, 59, 315](https://doi.org/10.1007/BF00242089) **(1992)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/1992SSRv...59..315W](https://ui.adsabs.harvard.edu/abs/1992SSRv...59..315W)
-
 1. *Search for TeV Gamma-Ray Emission from Hercules X-1*  
    **Reynolds, P. T. et al.**, [The Astrophysical Journal, 382, 640](https://doi.org/10.1086/170751) **(1991)**  
    ADS: [https://ui.adsabs.harvard.edu/abs/1991ApJ...382..640R](https://ui.adsabs.harvard.edu/abs/1991ApJ...382..640R)
-
-1. *Gamma rays and energetic particles from primordial black holes*  
-   **Halzen, F. et al.**, [Nature, 353, 807](https://doi.org/10.1038/353807a0) **(1991)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/1991Natur.353..807H](https://ui.adsabs.harvard.edu/abs/1991Natur.353..807H)
 
 1. *Locating Very High Energy Gamma-Ray Sources with Arcminute Accuracy*  
    **Akerlof, C. W. et al.**, [The Astrophysical Journal, 377, L97](https://doi.org/10.1086/186125) **(1991)**  
@@ -510,25 +382,13 @@
    **Macomb, D. J. et al.**, [The Astrophysical Journal, 376, 738](https://doi.org/10.1086/170320) **(1991)**  
    ADS: [https://ui.adsabs.harvard.edu/abs/1991ApJ...376..738M](https://ui.adsabs.harvard.edu/abs/1991ApJ...376..738M)
 
-1. *Measurement of the angular resolution of an extensive air shower array using a Cherenkov light detector*  
-   **Walker, A. et al.**, [Nuclear Instruments and Methods in Physics Research A, 301, 574](https://doi.org/10.1016/0168-9002(91)90025-L) **(1991)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/1991NIMPA.301..574W](https://ui.adsabs.harvard.edu/abs/1991NIMPA.301..574W)
-
 1. *Search for TeV gamma rays from the X-ray pulsar 1E 2259+586.*  
    **Cawley, M. F. et al.**, Astronomy and Astrophysics, 243, 143 **(1991)**  
    ADS: [https://ui.adsabs.harvard.edu/abs/1991A&A...243..143C](https://ui.adsabs.harvard.edu/abs/1991A&A...243..143C)
 
-1. *Very-high-energy gamma-ray astronomy: overview and prospects.*  
-   **Weekes, T. C. et al.**, [Annals of the New York Academy of Sciences, 647, 326](https://doi.org/10.1111/j.1749-6632.1991.tb32179.x) **(1991)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/1991NYASA.647..326W](https://ui.adsabs.harvard.edu/abs/1991NYASA.647..326W)
-
 1. *A High Resolution Imaging Detector for Tev Gamma-Ray Astronomy*  
    **Cawley, M. F. et al.**, [Experimental Astronomy, 1, 173](https://doi.org/10.1007/BF00462039) **(1990)**  
    ADS: [https://ui.adsabs.harvard.edu/abs/1990ExA.....1..173C](https://ui.adsabs.harvard.edu/abs/1990ExA.....1..173C)
-
-1. *TeV atmospheric Cherenkov telescope at the South Pole*  
-   **Gaidos, J. A. et al.**, [Nuclear Physics B Proceedings Supplements, 14, 265](https://doi.org/10.1016/0920-5632(90)90431-S) **(1990)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/1990NuPhS..14..265G](https://ui.adsabs.harvard.edu/abs/1990NuPhS..14..265G)
 
 1. *Granite, a new very high energy gamma-ray telescope*  
    **Akerlof, C. W. et al.**, [Nuclear Physics B Proceedings Supplements, 14, 237](https://doi.org/10.1016/0920-5632(90)90427-V) **(1990)**  
@@ -542,21 +402,9 @@
    **Lang, M. J. et al.**, [Nuclear Physics B Proceedings Supplements, 14, 165](https://doi.org/10.1016/0920-5632(90)90414-P) **(1990)**  
    ADS: [https://ui.adsabs.harvard.edu/abs/1990NuPhS..14..165L](https://ui.adsabs.harvard.edu/abs/1990NuPhS..14..165L)
 
-1. *Very high energy gamma-ray astronomy - On the threshold*  
-   **Weekes, Trevor C. et al.**, [Annals of the New York Academy of Sciences, 571, 372](https://doi.org/10.1111/j.1749-6632.1989.tb50524.x) **(1989)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/1989NYASA.571..372W](https://ui.adsabs.harvard.edu/abs/1989NYASA.571..372W)
-
 1. *Detection of TeV Gamma Rays from the Crab Nebula using the Atmospheric Cherenkov Imaging Technique*  
    **Cawley, M. F. et al.**, Irish Astronomical Journal, 19, 51 **(1989)**  
    ADS: [https://ui.adsabs.harvard.edu/abs/1989IrAJ...19...51C](https://ui.adsabs.harvard.edu/abs/1989IrAJ...19...51C)
-
-1. *TEV gamma-ray astronomy*  
-   **Weekes, Trevor C. et al.**, [Nuclear Physics B Proceedings Supplements, 10, 41](https://doi.org/10.1016/0920-5632(89)90036-4) **(1989)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/1989NuPhS..10...41W](https://ui.adsabs.harvard.edu/abs/1989NuPhS..10...41W)
-
-1. *Gamma-ray astronomy at the highest energies*  
-   **Weekes, Trevor C. et al.**, [Nuclear Instruments and Methods in Physics Research A, 280, 349](https://doi.org/10.1016/0168-9002(89)90931-5) **(1989)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/1989NIMPA.280..349W](https://ui.adsabs.harvard.edu/abs/1989NIMPA.280..349W)
 
 1. *Observation of TeV Gamma Rays from the Crab Nebula Using the Atmospheric Cerenkov Imaging Technique*  
    **Weekes, T. C. et al.**, [The Astrophysical Journal, 342, 379](https://doi.org/10.1086/167599) **(1989)**  
@@ -570,22 +418,6 @@
    **Lamb, R. C. et al.**, [The Astrophysical Journal, 328, L13](https://doi.org/10.1086/185150) **(1988)**  
    ADS: [https://ui.adsabs.harvard.edu/abs/1988ApJ...328L..13L](https://ui.adsabs.harvard.edu/abs/1988ApJ...328L..13L)
 
-1. *A Search for Evidence of Nuclearites in Data from Optical Pulse Experiments in Astrophysics*  
-   **Porter, N. A. et al.**, Irish Astronomical Journal, 18, 193 **(1988)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/1988IrAJ...18..193P](https://ui.adsabs.harvard.edu/abs/1988IrAJ...18..193P)
-
-1. *TeV gamma-ray astronomy*  
-   **Weekes, Trevor C. et al.**, [Nuclear Instruments and Methods in Physics Research A, 264, 55](https://doi.org/10.1016/0168-9002(88)91102-3) **(1988)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/1988NIMPA.264...55W](https://ui.adsabs.harvard.edu/abs/1988NIMPA.264...55W)
-
-1. *Very high energy gamma-ray astronomy.*  
-   **Weekes, T. C. et al.**, [Physics Reports, 160, 1](https://doi.org/10.1016/0370-1573(88)90177-9) **(1988)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/1988PhR...160....1W](https://ui.adsabs.harvard.edu/abs/1988PhR...160....1W)
-
-1. *Very High Energy Gamma-Ray Binary Stars*  
-   **Lamb, R. C. et al.**, [Science, 238, 1528](https://doi.org/10.1126/science.238.4833.1528) **(1987)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/1987Sci...238.1528L](https://ui.adsabs.harvard.edu/abs/1987Sci...238.1528L)
-
 1. *Hercules X-1: Pulsed Gamma Rays Detected above 250 GeV*  
    **Gorham, P. W. et al.**, [The Astrophysical Journal, 309, 114](https://doi.org/10.1086/164584) **(1986)**  
    ADS: [https://ui.adsabs.harvard.edu/abs/1986ApJ...309..114G](https://ui.adsabs.harvard.edu/abs/1986ApJ...309..114G)
@@ -593,22 +425,6 @@
 1. *Pulsed TeV Gamma Rays Detected from Hercules X-1 during X-Ray Source Eclipse*  
    **Gorham, P. W. et al.**, [The Astrophysical Journal, 308, L11](https://doi.org/10.1086/184734) **(1986)**  
    ADS: [https://ui.adsabs.harvard.edu/abs/1986ApJ...308L..11G](https://ui.adsabs.harvard.edu/abs/1986ApJ...308L..11G)
-
-1. *Very high-energy gamma-ray sources*  
-   **Weekes, Trevor C. et al.**, [The Physics Teacher, 24, 20](https://doi.org/10.1119/1.2341927) **(1986)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/1986PhTea..24...20W](https://ui.adsabs.harvard.edu/abs/1986PhTea..24...20W)
-
-1. *TeV γ-ray Sources: Cas γ-1 = 4U0115+63*  
-   **Lamb, R. C. et al.**, Astrophysical Letters, 25, 73 **(1986)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/1986ApL....25...73L](https://ui.adsabs.harvard.edu/abs/1986ApL....25...73L)
-
-1. *Cosmic rays from Cygnus X-3.*  
-   **MacKeown, P. K. et al.**, Scientific American, 253, 40 **(1985)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/1985SciAm.253k..40M](https://ui.adsabs.harvard.edu/abs/1985SciAm.253k..40M)
-
-1. *Cosmic rays from Cygnus X-3*  
-   **MacKeown, P. K. et al.**, [Scientific American, 253, 60](https://doi.org/10.1038/scientificamerican1185-60) **(1985)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/1985SciAm.253e..60M](https://ui.adsabs.harvard.edu/abs/1985SciAm.253e..60M)
 
 1. *Variability in the light curve of very high energy gamma rays from Cygnus X-3*  
    **Cawley, M. F. et al.**, [The Astrophysical Journal, 296, 185](https://doi.org/10.1086/163434) **(1985)**  
@@ -618,21 +434,9 @@
    **Porter, N. A. et al.**, [Nature, 316, 49](https://doi.org/10.1038/316049a0) **(1985)**  
    ADS: [https://ui.adsabs.harvard.edu/abs/1985Natur.316...49P](https://ui.adsabs.harvard.edu/abs/1985Natur.316...49P)
 
-1. *Gamma ray absorption and the distance to Cygnus X-3.*  
-   **Cawley, M. F. et al.**, Astronomy and Astrophysics, 133, 80 **(1984)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/1984A&A...133...80C](https://ui.adsabs.harvard.edu/abs/1984A&A...133...80C)
-
-1. *CCD brightness monitoring of the Twin QSO 0957+561.*  
-   **Schild, R. E. et al.**, [The Astrophysical Journal, 277, 481](https://doi.org/10.1086/161716) **(1984)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/1984ApJ...277..481S](https://ui.adsabs.harvard.edu/abs/1984ApJ...277..481S)
-
 1. *A camera for very high energy gamma-ray astronomy.*  
    **Fegan, D. J. et al.**, [Annals of the New York Academy of Sciences, 422, 345](https://doi.org/10.1111/j.1749-6632.1984.tb23378.x) **(1984)**  
    ADS: [https://ui.adsabs.harvard.edu/abs/1984NYASA.422..345F](https://ui.adsabs.harvard.edu/abs/1984NYASA.422..345F)
-
-1. *Clusters of Galaxies*  
-   **Weekes, T. C. et al.**, Irish Astronomical Journal, 16, 91 **(1983)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/1983IrAJ...16...91W](https://ui.adsabs.harvard.edu/abs/1983IrAJ...16...91W)
 
 1. *Upper limit for mediation of baryon decay by slow magnetic monopoles*  
    **Porter, N. A. et al.**, [Nature, 304, 606](https://doi.org/10.1038/304606a0) **(1983)**  
@@ -642,73 +446,9 @@
    **Weekes, T. C. et al.**, Astronomy and Astrophysics, 121, 232 **(1983)**  
    ADS: [https://ui.adsabs.harvard.edu/abs/1983A&A...121..232W](https://ui.adsabs.harvard.edu/abs/1983A&A...121..232W)
 
-1. *CCD camera observations of nearby rich clusters. I. R photometry of brightest galaxies.*  
-   **Murphy, H. P. et al.**, [Monthly Notices of the Royal Astronomical Society, 202, 1127](https://doi.org/10.1093/mnras/202.4.1127) **(1983)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/1983MNRAS.202.1127M](https://ui.adsabs.harvard.edu/abs/1983MNRAS.202.1127M)
-
-1. *Very high-energy gamma-ray astronomy*  
-   **Ramana Murthy, P. V. et al.**, [Nature, 300, 483](https://doi.org/10.1038/300483a0) **(1982)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/1982Natur.300..483R](https://ui.adsabs.harvard.edu/abs/1982Natur.300..483R)
-
-1. *The CCD Camera: A Revolutionary New Astronomical Detector*  
-   **Weekes, T. C. et al.**, Irish Astronomical Journal, 15, 271 **(1982)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/1982IrAJ...15..271W](https://ui.adsabs.harvard.edu/abs/1982IrAJ...15..271W)
-
-1. *Observations of CYG X-3 in the I band.*  
-   **Weekes, T. C. et al.**, [Publications of the Astronomical Society of the Pacific, 94, 708](https://doi.org/10.1086/131050) **(1982)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/1982PASP...94..708W](https://ui.adsabs.harvard.edu/abs/1982PASP...94..708W)
-
-1. *Possible applications of large solar arrays in astronomy and astrophysics.*  
-   **Danaher, S. et al.**, [Solar Energy, 28, 335](https://doi.org/10.1016/0038-092X(82)90308-5) **(1982)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/1982SoEn...28..335D](https://ui.adsabs.harvard.edu/abs/1982SoEn...28..335D)
-
 1. *Correlation between X-ray and high energy gamma-ray emission from CygX-3.*  
    **Weekes, T. C. et al.**, Astronomy and Astrophysics, 104, L4 **(1981)**  
    ADS: [https://ui.adsabs.harvard.edu/abs/1981A&A...104L...4W](https://ui.adsabs.harvard.edu/abs/1981A&A...104L...4W)
-
-1. *More absorption toward CYG X-3.*  
-   **Weekes, T. C. et al.**, [Publications of the Astronomical Society of the Pacific, 93, 474](https://doi.org/10.1086/130860) **(1981)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/1981PASP...93..474W](https://ui.adsabs.harvard.edu/abs/1981PASP...93..474W)
-
-1. *The Atmospheric Cherenkov Technique in Searches for Exploding Primordial Black Holes*  
-   **Danaher, S. et al.**, [Philosophical Transactions of the Royal Society of London Series A, 301, 665](https://doi.org/10.1098/rsta.1981.0149) **(1981)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/1981RSPTA.301..665D](https://ui.adsabs.harvard.edu/abs/1981RSPTA.301..665D)
-
-1. *Observations of Cygnus X-3 at Energies above 1000 GeV*  
-   **Danaher, S. et al.**, [Philosophical Transactions of the Royal Society of London Series A, 301, 637](https://doi.org/10.1098/rsta.1981.0144) **(1981)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/1981RSPTA.301..637D](https://ui.adsabs.harvard.edu/abs/1981RSPTA.301..637D)
-
-1. *Gamma-Rays above 100 GeV*  
-   **Turver, K. E. et al.**, [Philosophical Transactions of the Royal Society of London Series A, 301, 615](https://doi.org/10.1098/rsta.1981.0140) **(1981)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/1981RSPTA.301..615T](https://ui.adsabs.harvard.edu/abs/1981RSPTA.301..615T)
-
-1. *Gam-ray observations of CYG X-3 at energies of 10/12 E V.*  
-   **Danaher, S. et al.**, [Nature, 289, 568](https://doi.org/10.1038/289568a0) **(1981)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/1981Natur.289..568D](https://ui.adsabs.harvard.edu/abs/1981Natur.289..568D)
-
-1. *Lunar occultations of the Hyades: 1979-1980*  
-   **Peterson, D. M. et al.**, [The Astronomical Journal, 86, 280](https://doi.org/10.1086/112886) **(1981)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/1981AJ.....86..280P](https://ui.adsabs.harvard.edu/abs/1981AJ.....86..280P)
-
-1. *Gamma Rays - the Last Frontier*  
-   **Weekes, T. C. et al.**, Mercury, 10, 78 **(1981)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/1981Mercu..10...78W](https://ui.adsabs.harvard.edu/abs/1981Mercu..10...78W)
-
-1. *Flux of optical meteors down to M<SUB>PG</SUB> = +12*  
-   **Cook, A. F. et al.**, [Monthly Notices of the Royal Astronomical Society, 193, 645](https://doi.org/10.1093/mnras/193.3.645) **(1980)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/1980MNRAS.193..645C](https://ui.adsabs.harvard.edu/abs/1980MNRAS.193..645C)
-
-1. *Description, performance, and calibration of a charge-coupled-device camera*  
-   **Leach, R. W. et al.**, [Publications of the Astronomical Society of the Pacific, 92, 233](https://doi.org/10.1086/130654) **(1980)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/1980PASP...92..233L](https://ui.adsabs.harvard.edu/abs/1980PASP...92..233L)
-
-1. *An Acre of Vegas*  
-   **Weekes, T. et al.**, Sky and Telescope, 59, 119 **(1980)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/1980S&T....59..119W](https://ui.adsabs.harvard.edu/abs/1980S&T....59..119W)
-
-1. *A study of Einstein Observatory fields with a CCD camera*  
-   **Schild, R. et al.**, [The Astronomical Journal, 85, 121](https://doi.org/10.1086/112648) **(1980)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/1980AJ.....85..121S](https://ui.adsabs.harvard.edu/abs/1980AJ.....85..121S)
 
 1. *A search for very high energy gamma-ray emission from CG 195+4, and other 100 MeV sources.*  
    **Helmken, H. F. et al.**, [The Astrophysical Journal, 228, 531](https://doi.org/10.1086/156875) **(1979)**  
@@ -722,18 +462,6 @@
    **Hartman, D. H. et al.**, [Nuovo Cimento A Serie, 51A, 131](https://doi.org/10.1007/BF02822329) **(1979)**  
    ADS: [https://ui.adsabs.harvard.edu/abs/1979NCimA..51..131H](https://ui.adsabs.harvard.edu/abs/1979NCimA..51..131H)
 
-1. *Gamma-ray astronomy from 10 to 100 GeV.*  
-   **Turver, K. E. et al.**, [Nuovo Cimento B Serie, 45, 99](https://doi.org/10.1007/BF02904077) **(1978)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/1978NCimB..45...99T](https://ui.adsabs.harvard.edu/abs/1978NCimB..45...99T)
-
-1. *A search for high energy gamma-ray bursts from primordial black holes or other astronomical objects.*  
-   **Porter, N. A. et al.**, [Monthly Notices of the Royal Astronomical Society, 183, 205](https://doi.org/10.1093/mnras/183.2.205) **(1978)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/1978MNRAS.183..205P](https://ui.adsabs.harvard.edu/abs/1978MNRAS.183..205P)
-
-1. *A Search for Exploding Black Holes*  
-   **Porter, Neil A. et al.**, Sky and Telescope, 55, 113 **(1978)**  
-   ADS: [https://ui.adsabs.harvard.edu/abs/1978S&T....55..113P](https://ui.adsabs.harvard.edu/abs/1978S&T....55..113P)
-
 1. *Gamma Ray Astronomy from 10<SUP>11</SUP> to 10<SUP>14</SUP> eV Using the Atmospheric Cerenkov Technique*  
    **Porter, N. A. et al.**, SAO Special Report, 381 **(1977)**  
    ADS: [https://ui.adsabs.harvard.edu/abs/1977SAOSR.381.....P](https://ui.adsabs.harvard.edu/abs/1977SAOSR.381.....P)
@@ -741,6 +469,8 @@
 1. *Optical pulses from primordial black hole explosions*  
    **Porter, N. A. et al.**, [Nature, 267, 500](https://doi.org/10.1038/267500a0) **(1977)**  
    ADS: [https://ui.adsabs.harvard.edu/abs/1977Natur.267..500P](https://ui.adsabs.harvard.edu/abs/1977Natur.267..500P)
+
+STOP
 
 1. *An upper limit to the rate of gamma-ray bursts from primordial black hole explosions.*  
    **Porter, N. A. et al.**, [The Astrophysical Journal, 212, 224](https://doi.org/10.1086/155040) **(1977)**  
